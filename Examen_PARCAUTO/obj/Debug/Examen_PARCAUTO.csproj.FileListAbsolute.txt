@@ -1,0 +1,11 @@
+C:\Users\Robert\source\repos\Examen_PARCAUTO\Examen_PARCAUTO\bin\Debug\Examen_PARCAUTO.exe.config
+C:\Users\Robert\source\repos\Examen_PARCAUTO\Examen_PARCAUTO\bin\Debug\Examen_PARCAUTO.exe
+C:\Users\Robert\source\repos\Examen_PARCAUTO\Examen_PARCAUTO\bin\Debug\Examen_PARCAUTO.pdb
+C:\Users\Robert\source\repos\Examen_PARCAUTO\Examen_PARCAUTO\obj\Debug\Examen_PARCAUTO.csprojAssemblyReference.cache
+C:\Users\Robert\source\repos\Examen_PARCAUTO\Examen_PARCAUTO\obj\Debug\Examen_PARCAUTO.Form1.resources
+C:\Users\Robert\source\repos\Examen_PARCAUTO\Examen_PARCAUTO\obj\Debug\Examen_PARCAUTO.Properties.Resources.resources
+C:\Users\Robert\source\repos\Examen_PARCAUTO\Examen_PARCAUTO\obj\Debug\Examen_PARCAUTO.csproj.GenerateResource.cache
+C:\Users\Robert\source\repos\Examen_PARCAUTO\Examen_PARCAUTO\obj\Debug\Examen_PARCAUTO.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\Examen_PARCAUTO\Examen_PARCAUTO\obj\Debug\Examen_PARCAUTO.exe
+C:\Users\Robert\source\repos\Examen_PARCAUTO\Examen_PARCAUTO\obj\Debug\Examen_PARCAUTO.pdb
+C:\Users\Robert\source\repos\Examen_PARCAUTO\Examen_PARCAUTO\obj\Debug\Examen_PARCAUTO.AdaugareVehicul.resources
